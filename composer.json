@@ -1,0 +1,8 @@
+{
+  "require": {
+    "voku/simple-mysqli": "7.*"
+  },
+  "config": {
+    "secure-http": false
+  }
+}

@@ -1,0 +1,125 @@
+array(3) {
+  [0]=>
+  array(3) {
+    ["drink"]=>
+    array(3) {
+      ["id"]=>
+      int(1)
+      ["name"]=>
+      string(6) "Coffee"
+      ["description"]=>
+      string(138) "Aroma – Though inherent in the bean, Aroma intensifies as the Roast reaches medium dark, then tapers off to become a singular Roast note"
+    }
+    ["ingredients"]=>
+    array(3) {
+      [0]=>
+      array(3) {
+        ["id"]=>
+        int(1)
+        ["name"]=>
+        string(6) "Coffee"
+        ["price"]=>
+        string(4) "0.40"
+      }
+      [1]=>
+      array(3) {
+        ["id"]=>
+        int(2)
+        ["name"]=>
+        string(5) "Water"
+        ["price"]=>
+        string(4) "0.10"
+      }
+      [2]=>
+      array(3) {
+        ["id"]=>
+        int(3)
+        ["name"]=>
+        string(5) "Sugar"
+        ["price"]=>
+        string(4) "0.30"
+      }
+    }
+    ["totalPrice"]=>
+    float(0.8)
+  }
+  [1]=>
+  array(3) {
+    ["drink"]=>
+    array(3) {
+      ["id"]=>
+      int(2)
+      ["name"]=>
+      string(3) "Tea"
+      ["description"]=>
+      string(9) "Black Tea"
+    }
+    ["ingredients"]=>
+    array(2) {
+      [0]=>
+      array(3) {
+        ["id"]=>
+        int(4)
+        ["name"]=>
+        string(6) "TeaBag"
+        ["price"]=>
+        string(4) "0.20"
+      }
+      [1]=>
+      array(3) {
+        ["id"]=>
+        int(5)
+        ["name"]=>
+        string(5) "Water"
+        ["price"]=>
+        string(4) "0.10"
+      }
+    }
+    ["totalPrice"]=>
+    float(0.3)
+  }
+  [2]=>
+  array(3) {
+    ["drink"]=>
+    array(3) {
+      ["id"]=>
+      int(3)
+      ["name"]=>
+      string(10) "Cappuccino"
+      ["description"]=>
+      string(20) "Flavored cappuccinos"
+    }
+    ["ingredients"]=>
+    array(3) {
+      [0]=>
+      array(3) {
+        ["id"]=>
+        int(6)
+        ["name"]=>
+        string(6) "Coffee"
+        ["price"]=>
+        string(4) "0.40"
+      }
+      [1]=>
+      array(3) {
+        ["id"]=>
+        int(7)
+        ["name"]=>
+        string(5) "Water"
+        ["price"]=>
+        string(4) "0.10"
+      }
+      [2]=>
+      array(3) {
+        ["id"]=>
+        int(8)
+        ["name"]=>
+        string(4) "Milk"
+        ["price"]=>
+        string(4) "0.20"
+      }
+    }
+    ["totalPrice"]=>
+    float(0.7)
+  }
+}
